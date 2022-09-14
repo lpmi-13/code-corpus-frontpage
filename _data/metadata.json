@@ -1,10 +1,10 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "Code Corpus API Frontpage",
+  "url": "https://codecorpus.net/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "The landing page for the Code Corpus API. Gives a bit of background and describes how to use",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "The landing page for the Code Corpus API",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -14,33 +14,21 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "lpmi-13",
+    "email": "leskis@gmail.com",
+    "url": "https://adamleskis.com"
   },
   "nav": [{
     "title": "home",
     "url": "/"
   },
   {
-    "title": "posts",
-    "url": "/posts"
-  },
-  {
     "title": "about",
     "url": "/about"
   },
   {
-    "title": "contact",
-    "url": "/contact"
-  },
-  {
-    "title": "rss",
-    "url": "/feed/feed.xml"
-  },
-  {
-    "title": "search",
-    "url": "/search"
+    "title": "api spec",
+    "url": "/swagger"
   }],
   "config": {
     "showDateList": true,

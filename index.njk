@@ -1,10 +1,8 @@
 ---
 layout: layouts/home.njk
 ---
-<p>This is where you write a quick intro about yourself or the blog or both.</p>
-<h2>Recent Posts</h2>
-{% set maxPosts = collections.posts.length | min(3) %}
-{% set postslist = collections.posts | head(-3) %}
-{% set postslistCounter = collections.posts | length %}
-{% include "postslist.njk" %}
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+<h2>Code Corpus API</h2>
+
+This is the homepage for the code corpus API.
+
+<h4><a href="https://github.com/lpmi-13/code-corpus-api">source code</a></h4>
