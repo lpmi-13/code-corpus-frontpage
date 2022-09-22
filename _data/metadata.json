@@ -3,16 +3,6 @@
   "url": "https://codecorpus.net/",
   "language": "en",
   "description": "The landing page for the Code Corpus API. Gives a bit of background and describes how to use",
-  "feed": {
-    "subtitle": "The landing page for the Code Corpus API",
-    "filename": "feed.xml",
-    "path": "/feed/feed.xml",
-    "id": "https://example.com/"
-  },
-  "jsonfeed": {
-    "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
-  },
   "author": {
     "name": "lpmi-13",
     "email": "leskis@gmail.com",
@@ -23,12 +13,8 @@
     "url": "/"
   },
   {
-    "title": "about",
-    "url": "/about"
-  },
-  {
     "title": "api spec",
-    "url": "/swagger"
+    "url": "/usage"
   }],
   "config": {
     "showDateList": true,
