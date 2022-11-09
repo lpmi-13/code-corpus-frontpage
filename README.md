@@ -6,5 +6,7 @@ This is the very basic static site frontpage for the [code corpus api](https://g
 
 ```
 npm i
-npm run watch
+npm start
 ```
+
+the page should be available at `localhost:8080`.

@@ -18,6 +18,6 @@
   }],
   "config": {
     "showDateList": true,
-    "showDatePost": true
+    "showDatePost": false
   }
 }
